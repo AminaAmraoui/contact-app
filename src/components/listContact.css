@@ -1,0 +1,12 @@
+.fas{
+    color: "blue";
+    font-size: "20pt"
+}
+
+.fas:hover{
+    cursor: pointer;
+}
+
+.fa-minus-circle{
+    margin-right: 5px
+}

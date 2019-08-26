@@ -1,0 +1,20 @@
+.form-btns{
+    display: flex;
+    padding-left: 450px;
+    padding-right: 200px;
+    justify-content: space-around;
+}
+
+input[type=button]{
+    background-color: #17a2b8; 
+    border: none;
+    color: white;
+    padding: 12px 28px;
+    text-align: center;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 4px;
+  }
+  .btn-danger{
+    padding: 12px 28px;
+  }
